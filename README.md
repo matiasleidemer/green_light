@@ -1,4 +1,4 @@
 green_light
 ===========
 
-Open source iOS app to interact with SemaphoreApp
+This repository now lives at http://github.com/bluespell/green_light
